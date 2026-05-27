@@ -1,0 +1,17 @@
+{
+  "name": "回忆书 - 未栖和小白",
+  "short_name": "回忆书",
+  "description": "我们的记忆，会呼吸的空间",
+  "start_url": "/memories/",
+  "scope": "/memories/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fdf2f8",
+  "theme_color": "#f9a8d4",
+  "icons": [{
+    "src": "icon.svg",
+    "sizes": "512x512",
+    "type": "image/svg+xml",
+    "purpose": "any maskable"
+  }]
+}
